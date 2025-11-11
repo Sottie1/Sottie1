@@ -1,79 +1,108 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/boaz-sottie-5aa2631a4">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://github.com/Sottie1?tab=followers"><img src="https://img.shields.io/github/followers/Sottie1?label=Followers&style=social" alt="GitHub Badge"></a>
-    
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=Sotttie1&style=flat-square&color=blue" alt=""/>
-  <h1>
-    hey there, this is Sottie 😊❤️
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+<!-- 🌌 THE ULTIMATE WOW README FOR SOTTIE -->
+
+<!-- Header Section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sottie+👋;Full+Stack+Developer+💻;UI/UX+Enthusiast+🎨;Creative+Problem+Solver+🚀" alt="Typing SVG" />
+
+  <br/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Developer GIF"/>
+
+  <br/>
+  <a href="https://www.linkedin.com/in/boaz-sottie-5aa2631a4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sottie1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:boazsottie@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Sottie1&style=for-the-badge&color=5BCDEC" alt="Profile Views"/>
+
 </div>
 
 ---
 
-### :woman_technologist: About Me :
-I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Accra, Ghana.
-- :telescope: I’m currently studying.
+<!-- About Section -->
+## 🧑🏽‍🚀 About Me
 
-- :seedling: Exploring Technical Content Writing.
+> “Great code is poetry written in logic.”
 
-- :zap: In my free time, I solve problems and read tech articles.
+Hi there 👋🏽  
+I'm **Boaz Sottie**, a passionate **Full Stack Developer** from **Accra, Ghana 🇬🇭** who loves building meaningful, fast, and visually stunning digital products.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-boazsottie-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boaz-sottie-5aa2631a4)
-<a href="https://https://twitter.com/boaz_sottie?t=BpsDQSbv9Ua-g_7Y4D_9cQ&s=09" target="_blank"><img align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-     alt="Tolulope Fakunle" height="30" width="40" /></a> 
-     **sottiegadson@gmail.com**
+💡 **What I do best:**
+- Craft blazing-fast **web apps** with **React + FastAPI**
+- Design clean, modern, and functional **UI/UX**
+- Turn ideas into **beautiful, interactive experiences**
+- Always learning, improving, and sharing knowledge
+
+⚡ **Mantra:** *Keep Calm & Keep Moving Forward.*
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /><img
-     src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-    height="40" /> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-   rel="noreferrer">
-   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-     alt="android" width="40" height="40" /> </a>
+<!-- Skills Section -->
+## ⚙️ Tech Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,fastapi,firebase,git,github,mysql,figma,illustrator,android" />
 </div>
 
+---
+
+<!-- Stats Section -->
+## 📊 GitHub Stats (Watch it Glow ⚡)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sottie1&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sottie1&theme=radical&hide_border=true&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" width="48%" />
+</div>
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sottie1&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sottie1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sottie1&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=false&border_radius=2&hide=contribs" alt="Sottie1's github stats" />
-
-<br/>
-
-<a href="https://github.com/Sottie1/github-readme-activity-graph"><img alt="Sottie1' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sottie1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- Languages Section -->
+## 💻 Languages I Use the Most
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sottie1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=5BCDEC" width="60%" />
+</div>
 
 ---
-<b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
 
+<!-- Activity Graph -->
+## 🌐 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sottie1&theme=react-dark&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="95%"/>
+</div>
 
+---
 
+<!-- Quote Section -->
+## ✨ Quote I Live By
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=5BCDEC&center=true&vCenter=true&width=600&lines=Code.+Create.+Repeat.;Build+Things+That+Matter.;Perfection+is+in+the+details." />
+</div>
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
+<!-- Contact Section -->
+## 🤝 Let’s Connect
+<div align="center">
+  <a href="https://www.linkedin.com/in/boaz-sottie-5aa2631a4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Sottie1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Profile-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:boazsottie@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5BCDEC&height=100&section=footer"/>
+</div>
